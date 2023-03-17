@@ -26,7 +26,7 @@
 - **uuid** and **@types/uuid**
 
 После git clone 'link' установите все зависимости из package.json:
-### `yarn install`
+### `yarn` или `yarn install`
 
 а потом запустите проект:
 ### `yarn start`
